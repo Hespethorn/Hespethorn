@@ -1,5 +1,9 @@
 # 🌐 Hespethorn Tech Growth Portfolio
-
+![24h Crisis Resolution](https://img.shields.io/badge/Personality-ENTJ-orange?logo=bug)
+[![Environment Setup](https://img.shields.io/badge/env-setup-green?style=flat-square)](https://www.16personalities.com/profile)
+![Decision Engine](https://img.shields.io/badge/decisions-24h-red?logo=git)
+![Knowledge Palace](https://img.shields.io/badge/knowledge-50books-gold?logo=book)
+[![Stars](https://img.shields.io/github/stars/Hespethorn/Hespethorn)](https://github.com/Hespethorn/Hespethorn)
 ## 📌 Core Identity
 - **Role**: Full Stack Developer | Tech Explorer
 - **Last Updated**: 📅 March 15, 2024
