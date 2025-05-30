@@ -34,7 +34,7 @@
 ## ⭐ Professional Tags
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hespethorn" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hespethorn&theme=vue&show_icons=true" />
 </a>
 <br><br>
 <!--https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#disable-rate-limit-protections从大佬这里copy的效果!-->
