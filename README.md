@@ -26,9 +26,10 @@
 - **Platforms**  
   ▸ 🐧 Linux | 🪟 Windows  
 ## 🚀 Featured Projects
-###  AI Code Assistant (2024)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hespethorn&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  alt="水滴石穿" align="right" style="margin-bottom: 500px;"/>
 <!--https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#disable-rate-limit-protections从大佬这里copy的效果!-->
+
+###  AI Code Assistant (2024)
 
 - **Tech Stack**  
   ▸ 🔗 LangChain | 🤖 CodeLlama  
