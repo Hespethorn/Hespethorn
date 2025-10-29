@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/Hespethorn/Hespethorn)](https://github.com/Hespethorn/Hespethorn)
 ## 📌 Core Identity
 - **Role**: Full Stack Developer | Tech Explorer
-- **Last Updated**: 📅 2025年5月30日
+- **Last Updated**: 📅 2025年10月30日
 
 ## 🔗 Contact Matrix
 - **GitHub**: [Hespethorn](https://github.com/Hespethorn) 🏙️  
